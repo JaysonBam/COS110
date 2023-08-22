@@ -1,0 +1,7 @@
+Created array from textfile with 4 rows
+1
+2,4,6,8,10,12
+3,5
+10
+4:[1,6,2,1]
+Deleted array with 4 rows
