@@ -1,0 +1,12 @@
+product{[](0)}{productName}{R5}{5}
+bulk{[](0)}{bulkName}{R5}{5}{10.00%}{8}
+discountedProduct{[](0)}{discountedProductName}{R5}{5}{10.00%}
+service{[](0)}{serviceName}{R10/year}
+subscription{[](0)}{subscriptionName}{R10/year}{10.00%}
+labor{[](0)}{laborName}{R10/year}{[10]}
+Bought{5}{productName}{R25.00}
+Bought{5}{bulkName}{R25.00}
+Bought{5}{discountedProductName}{R22.50}
+Bought{5weeks}{serviceName}{R1.04}
+Bought{5weeks}{subscriptionName}{R1.04}
+Bought{5weeks}{laborName}{R10.42}
