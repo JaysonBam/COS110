@@ -1,0 +1,9 @@
+3
+apple|10|5.99
+pear|2|25
+banana|5|10
+4
+strawberry|20|10.50
+blueberry|15|9.99
+apple|10|5
+apple|30|7.99
